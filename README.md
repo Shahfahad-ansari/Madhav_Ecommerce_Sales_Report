@@ -1,4 +1,4 @@
-# PowerBi_dashboard_project
+# Madhav_Ecommerce_Sales_Report
 This Power BI dashboard provides a comprehensive overview of e-commerce sales performance. Key features include:
 
 Sales trends analysis over time.
